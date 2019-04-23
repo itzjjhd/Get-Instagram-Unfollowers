@@ -2,6 +2,8 @@
 Getting Instagram Unfollowers, by comparing an old list with a new one
 
 This script is in early stage of developement!
+Until now, the script is 99% copied from the examples of the Instagram API git from:
+https://github.com/LevPasha/Instagram-API-python
 
 # How to use?
 
