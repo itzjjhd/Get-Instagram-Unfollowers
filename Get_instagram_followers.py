@@ -32,7 +32,6 @@ if __name__ == "__main__":
     api = InstagramAPI(username, password)
     api.login()
 
-    # user_id = '1461295173'
     user_id = api.username_id
 
     # List of all followers
@@ -41,7 +40,7 @@ if __name__ == "__main__":
     print('Follower info:',(followers))
 
 
-    # (check evaluation.evaluate_user_followers for further details).
+   # optionally getting the follower amount
     followers = api.getTotalFollowers(user_id)
     print('Number of followers:', len(followers))
 
