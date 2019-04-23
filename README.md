@@ -3,7 +3,7 @@ Getting Instagram Unfollowers, by comparing an old list with a new one
 
 This script is in early stage of developement!
 
-#How to use?
+# How to use?
 
 In order to (currently available) get a list of your followers, you only need to:
 
